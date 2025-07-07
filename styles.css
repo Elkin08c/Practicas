@@ -1,0 +1,29 @@
+h5 {
+    color: green;
+    font-size: 18px;
+    margin-top: 5px;
+
+}
+
+p{
+  text-align: justify;
+}
+
+
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 120px;
+    border: 0.5px solid #000;
+}
+.Sub  {
+    color: #007fe6;
+
+}
+.linea {
+    border-top: 2px solid #000;
+    border: none;
+    height: 1px;
+    background: #000;
+    margin: 0 0 20px 0;
+}
