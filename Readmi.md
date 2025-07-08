@@ -1,2 +1,2 @@
 https://github.com/Elkin08c/Practicas
-resolution
+resolution my problem
