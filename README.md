@@ -1,2 +1,1 @@
 https://github.com/Elkin08c/Practicas
-resolution my problem
